@@ -1,1 +1,1 @@
-# GuessTheNumber
+Proyecto "Guess The Number" en C#. Segunda lección del curso de Udemy "C# Para Principiantes: Curso Práctico - C# en 15 Proyectos" por Gabriel Moroni.
