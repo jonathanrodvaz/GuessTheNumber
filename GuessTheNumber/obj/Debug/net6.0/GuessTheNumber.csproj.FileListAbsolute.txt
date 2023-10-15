@@ -1,0 +1,14 @@
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\GuessTheNumber\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.exe
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\GuessTheNumber\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.deps.json
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\GuessTheNumber\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.runtimeconfig.json
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\GuessTheNumber\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.dll
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\GuessTheNumber\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.pdb
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.AssemblyInfoInputs.cache
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.AssemblyInfo.cs
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.dll
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\refint\GuessTheNumber.dll
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.pdb
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.genruntimeconfig.cache
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\ref\GuessTheNumber.dll
